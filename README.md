@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... connect with react js user
 - 🌱 I’m currently learning ... react js
 - 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... aderogaaderibigbe18@gmail.com
+- 📫 How to reach me ... aderogbaaderibigbe18@gmail.com
 - 😄 Pronouns: ...ROB rob
 - ⚡ Fun fact: ...
 
