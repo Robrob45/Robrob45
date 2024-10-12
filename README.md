@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... aderogbaaderibigbe18@gmail.com
 - 😄 Pronouns: ...ROB rob
-- ⚡ Fun fact: ...
-
+- ⚡ Fun fact: .I'm a Crazy Creator. frontend web developer,Political Science, video editor 
 <!---
 Robrob45/Robrob45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
